@@ -10,14 +10,14 @@
    <img src="assets/nrf24.jpg" width="550">
 
 2. `1pc ESP32 WROOM` Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)<br>
-<img src="assets/esp32.png" width="550">
+   <img src="assets/esp32.png" width="550">
 
 3. `10UF-100UF CAPACITOR` Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)<br>
-<img src="assets/cap.png">
+   <img src="assets/cap.png">
 
 4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)<br>
-Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br>
-<img src="assets/sw.png" width="250">
+   Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br>
+   <img src="assets/sw.png" width="250">
 ---
 
 ## PINS TO ATTACH NRF24L01 TO ESP32
@@ -41,7 +41,7 @@ Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br>
 --- 
 
 ## UPLOADING CODE TO ESP32
-- ` WEBFLASHER `INSTALLER FOR EASY UPLOAD CODE ON ESP32 NO NEED TO DOWNLOAD INO FILE (USE CHROME OR EDGE BROWSER)
+- `WEBFLASHER` INSTALLER FOR EASY UPLOAD CODE ON ESP32 NO NEED TO DOWNLOAD INO FILE (USE CHROME OR EDGE BROWSER)
 
 - [https://dtavnn.github.io/esp32-Bluetooth-jammer/flasher](https://dtavnn.github.io/esp32-Bluetooth-jammer/flasher)
 ---
@@ -53,7 +53,7 @@ Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br>
 ---
 
 # DONATION
-**If you like, you can donate to MY PAYPAL ACCOUNT :**  
+**If you like, you can donate to MY PAYPAL ACCOUNT:**  
 [PAYPAL](https://paypal.me/dtavnn) or [MOMO](assets/momo.jpg)  
 
 - QR MOMO:  
