@@ -7,17 +7,17 @@
 ---
 ## REQUIRED DEVICE AND MODULE:
 1. `1pc OR 2pcs NRF24`
-- Buy link: https://s.shopee.vn/AKPbm6iKfB
+- Buy link: [https://s.shopee.vn/AKPbm6iKfB](https://s.shopee.vn/AKPbm6iKfB)
   
   ![nrf24l01](assets/nrf24.jpg)
 
 2. `1pc ESP32`
-- Buy link: https://s.shopee.vn/5fdmDlb45J
+- Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)
   
   ![esp32](assets/esp32.png)
 
 3. `10UF-100UF CAPACITOR DEPEND ON YOUR NRF`
-- Buy link: https://s.shopee.vn/8fHNnW7y1h
+- Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)
 
   ![capacitor](assets/cap.png)
 
