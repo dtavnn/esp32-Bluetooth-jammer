@@ -7,20 +7,24 @@
 ---
 ## REQUIRED DEVICE AND MODULE:
 1. `1pc OR 2pcs NRF24`
-- Buy link: [https://s.shopee.vn/AKPbm6iKfB](https://s.shopee.vn/AKPbm6iKfB)
+- Buy link: [https://s.shopee.vn/AKPbm6iKfB](https://s.shopee.vn/AKPbm6iKfB)<br>
+
 - ![nrf24l01](assets/nrf24.jpg)
 
 2. `1pc ESP32`
-- Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)
+- Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)<br>
+
 - ![esp32](assets/esp32.png)
 
 3. `10UF-100UF CAPACITOR DEPEND ON YOUR NRF`
-- Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)
-  ![capacitor](assets/cap.png)
+- Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)<br>
+
+- ![capacitor](assets/cap.png)
 
 4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)
-- Buy link: https://s.shopee.vn/5L0vpYAdVs
-  ![DIP](assets/sw.png)
+- Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br>
+
+- ![DIP](assets/sw.png)
 ---
 
 ## PINS TO ATTACH NRF24L01 TO ESP32
@@ -46,7 +50,7 @@
 ## UPLOADING CODE TO ESP32
 - ` WEBFLASHER `INSTALLER FOR EASY UPLOAD CODE ON ESP32 NO NEED TO DOWNLOAD INO FILE (USE CHROME OR EDGE BROWSER)
 
-- [https://dtavnn.github.io/esp32-Bluetooth-jammer](https://dtavnn.github.io/esp32-Bluetooth-jammer/)
+- [https://dtavnn.github.io/esp32-Bluetooth-jammer/flasher](https://dtavnn.github.io/esp32-Bluetooth-jammer/flasher)
 ---
 
 ## TESTED
