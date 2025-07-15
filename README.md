@@ -3,27 +3,23 @@
 # WHAT DOES IT DO?
 **IT CREATES NOISE SIGNAL TO JAM BLUETOOTH AND WIFI USING NRF24L01 AND ESP32 IN RANGE 2.4GHZ DEVICES, EFFECTS MAY VARY DEPENDS ON DEVICE BLUETOOTH VERSIONS **
 
-`NOT TESTED ON 2.4GHZ DRONE I DONT HAVE ONE BUT IT CAN JAM ONE..... MAYBE?` 
+`NOT TESTED ON 2.4GHZ DRONE I DONT HAVE ONE BUT IT CAN JAM ONE... MAYBE?` 
 ---
 ## REQUIRED DEVICE AND MODULE:
 1. `1pc OR 2pcs NRF24`
 - Buy link: [https://s.shopee.vn/AKPbm6iKfB](https://s.shopee.vn/AKPbm6iKfB)
-  
-  ![nrf24l01](assets/nrf24.jpg)
+- ![nrf24l01](assets/nrf24.jpg)
 
 2. `1pc ESP32`
 - Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)
-  
-  ![esp32](assets/esp32.png)
+- ![esp32](assets/esp32.png)
 
 3. `10UF-100UF CAPACITOR DEPEND ON YOUR NRF`
 - Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)
-
   ![capacitor](assets/cap.png)
 
 4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)
 - Buy link: https://s.shopee.vn/5L0vpYAdVs
-  
   ![DIP](assets/sw.png)
 ---
 
