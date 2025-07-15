@@ -6,28 +6,30 @@
 `NOT TESTED ON 2.4GHZ DRONE I DONT HAVE ONE BUT... MAYBE?` 
 ---
 ## REQUIRED DEVICE AND MODULE:
-1. `1pc OR 2pcs NRF24` Buy link: [https://s.shopee.vn/AKPbm6iKfB](https://s.shopee.vn/AKPbm6iKfB)<br><br>
+1. `1pc OR 2pcs NRF24` Buy link: [https://s.shopee.vn/AKPbm6iKfB](https://s.shopee.vn/AKPbm6iKfB)
+   
    <img src="assets/nrf24.jpg" width="550">
 
-2. `1pc ESP32 WROOM` Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)<br><br>
+3. `1pc ESP32 WROOM` Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)<br><br>
    <img src="assets/esp32.png" width="550">
 
-3. `10UF-100UF CAPACITOR` Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)<br><br>
+4. `10UF-100UF CAPACITOR` Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)<br><br>
    <img src="assets/cap.png">
 
-4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)<br>
+5. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)<br>
    Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br><br>
    <img src="assets/sw.png" width="250">
 ---
 
 ## PINS TO ATTACH NRF24L01 TO ESP32
 ### NRF24L01 (YOU CAN CHOOSE BETWEEN HSPI, VSPI OR BOTH)
+
 + `HSPI: SCK = 14, MISO = 12, MOSI = 13, CS = 15, CE = 16`
 + `VSPI: SCK = 18, MISO = 19, MOSI = 23, CS = 21, CE = 22`
 
-### SWITCH PIN (OPTIONAL)<br>
-+ `PIN 33 OF YOUR ESP32`
+### SWITCH PIN (OPTIONAL)
 
++ `PIN 33 OF YOUR ESP32`
 ---
 
 ## WIRING DIAGRAM
@@ -42,17 +44,17 @@
 --- 
 
 ## UPLOADING CODE TO ESP32
+
 - `WEBFLASHER` INSTALLER FOR EASY UPLOAD CODE ON ESP32 NO NEED TO DOWNLOAD INO FILE (USE CHROME OR EDGE BROWSER)
 
 - [https://dtavnn.github.io/esp32-Bluetooth-jammer/flasher](https://dtavnn.github.io/esp32-Bluetooth-jammer/flasher)
-
 ---
 
 ## TESTED
+
 + **TESTED 10 METERS ON BLUETOOTH 5.0 AND WORKS GREAT**
 + **TESTED 10 METERS ON NEWER BLUETOOTH 5.3 WORKING DEPENDS BETWEEN THE GAP OF BLUETOOTH DEVICE AND PHONE**
 + **IF YOU WANT BETTER PERFORMANCE YOU CAN ADD 2.4GHZ RF AMPLIFIER**
-
 ---
 
 # DONATION
