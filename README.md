@@ -9,7 +9,7 @@
 ## REQUIRED DEVICE AND MODULE:
 1. `1pc OR 2pcs NRF24`
 - Buy link: https://s.shopee.vn/AKPbm6iKfB
-- ![nrf24l01](assets/nrf24.jpg)
+![nrf24l01](assets/nrf24.jpg)
 
 2. `1pc ESP32`
 - Buy link: https://s.shopee.vn/5fdmDlb45J
