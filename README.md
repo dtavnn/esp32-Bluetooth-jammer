@@ -6,24 +6,16 @@
 `NOT TESTED ON 2.4GHZ DRONE I DONT HAVE ONE BUT IT CAN JAM ONE... MAYBE?` 
 ---
 ## REQUIRED DEVICE AND MODULE:
-1. `1pc OR 2pcs NRF24`
- - Buy link: [https://s.shopee.vn/AKPbm6iKfB](https://s.shopee.vn/AKPbm6iKfB)<br>
+1. `1pc OR 2pcs NRF24` Buy link: [https://s.shopee.vn/AKPbm6iKfB](https://s.shopee.vn/AKPbm6iKfB)<br>
+- ![nrf24l01](assets/nrf24.jpg)
 
- - ![nrf24l01](assets/nrf24.jpg)
-
-2. `1pc ESP32`
-- Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)<br>
-
+2. `1 pc ESP32 wroom` Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)<br>
 - ![esp32](assets/esp32.png)
 
-3. `10UF-100UF CAPACITOR DEPEND ON YOUR NRF`
-- Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)<br>
-
+3. `10UF-100UF CAPACITOR` Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)<br>
 - ![capacitor](assets/cap.png)
 
-4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)
-- Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br>
-
+4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING) Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br>
 - ![DIP](assets/sw.png)
 ---
 
