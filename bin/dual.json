@@ -1,0 +1,20 @@
+{
+  "name": "dual",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        { "path": "dual.bootloader.bin", "offset": 4096 },
+        { "path": "dual.partitions.bin", "offset": 32768 },
+        { "path": "dual.bin", "offset": 65536 }
+      ]
+    },
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        { "path": "esp8266.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
