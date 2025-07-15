@@ -50,7 +50,7 @@
 ## UPLOADING CODE TO ESP32
 - ` WEBFLASHER `INSTALLER FOR EASY UPLOAD CODE ON ESP32 NO NEED TO DOWNLOAD INO FILE (USE CHROME OR EDGE BROWSER)
 
-- https://github.com/dtavnn/esp32-Bluetooth-jammer
+- [https://dtavnn.github.io/esp32-Bluetooth-jammer](https://dtavnn.github.io/esp32-Bluetooth-jammer/)
 ---
 
 ## TESTED
@@ -60,11 +60,11 @@
 ---
 
 # DONATION
-**If you like, you can donate to MY PAYPAL ACCOUNT :**
+**If you like, you can donate to MY PAYPAL ACCOUNT :**  
+[PAYPAL](https://paypal.me/dtavnn) or [MOMO](assets/momo.jpg)  
 
-[PAYPAL](https://paypal.me/dtavnn)
-or
-[MOMO](assets/momo.jpg)
+- QR MOMO:  
+<img src="assets/momo.jpg" alt="QR momo" width="150"><br>
 
-<a href="https://coff.ee/anhdt" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=smoochiee&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=anhdt&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://coff.ee/anhdt)
 
