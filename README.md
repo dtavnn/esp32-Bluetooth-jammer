@@ -25,7 +25,7 @@
 + `HSPI: SCK = 14, MISO = 12, MOSI = 13, CS = 15, CE = 16`
 + `VSPI: SCK = 18, MISO = 19, MOSI = 23, CS = 21, CE = 22`
 
-### SWITCH PIN (OPTIONAL)
+### SWITCH PIN (OPTIONAL)  
 + `PIN 33 OF YOUR ESP32`
 ---
 
