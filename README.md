@@ -7,17 +7,16 @@
 ---
 ## REQUIRED DEVICE AND MODULE:
 1. `1pc OR 2pcs NRF24` Buy link: [https://s.shopee.vn/AKPbm6iKfB](https://s.shopee.vn/AKPbm6iKfB)<br>
-<img src="assets/nrf24.jpg" width="350"><br>
-- ![nrf24l01](assets/nrf24.jpg)
+<img src="assets/nrf24.jpg" width="550">
 
-2. `1 pc ESP32 wroom` Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)<br>
-- ![esp32](assets/esp32.png)
+2. `1pc ESP32 WROOM` Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)<br>
+<img src="assets/esp32.png" width="550">
 
 3. `10UF-100UF CAPACITOR` Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)<br>
-- ![capacitor](assets/cap.png)
+<img src="assets/cap.png">
 
 4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING) Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br>
-- ![DIP](assets/sw.png)
+<img src="assets/sw.png" width="550">
 ---
 
 ## PINS TO ATTACH NRF24L01 TO ESP32
