@@ -15,8 +15,9 @@
 3. `10UF-100UF CAPACITOR` Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)<br>
 <img src="assets/cap.png">
 
-4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING) Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br>
-<img src="assets/sw.png" width="550">
+4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)<br>
+Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br>
+<img src="assets/sw.png" width="250">
 ---
 
 ## PINS TO ATTACH NRF24L01 TO ESP32
