@@ -1,7 +1,7 @@
 **WARNING!!! JAMMING IS ILLEGAL**
  ---
 # WHAT DOES IT DO?
-** IT CREATES NOISE SIGNAL TO JAM BLUETOOTH AND WIFI USING NRF24L01 AND ESP32 IN RANGE 2.4GHZ DEVICES,
+** IT CREATES NOISE SIGNAL TO JAM BLUETOOTH AND WIFI USING NRF24L01 AND ESP32 IN RANGE 2.4GHZ DEVICES,  
    EFFECTS MAY VARY DEPENDS ON DEVICE BLUETOOTH VERSIONS **
 
 `NOT TESTED ON 2.4GHZ DRONE I DONT HAVE ONE BUT... MAYBE?`
@@ -13,14 +13,17 @@
    
    <img src="assets/nrf24.jpg" width="550">
 
-3. `1pc ESP32 WROOM` Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)<br><br>
+3. `1pc ESP32 WROOM` Buy link: [https://s.shopee.vn/5fdmDlb45J](https://s.shopee.vn/5fdmDlb45J)
+   
    <img src="assets/esp32.png" width="550">
 
-4. `10UF-100UF CAPACITOR` Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)<br><br>
+5. `10uF-100uF CAPACITOR` Buy link: [https://s.shopee.vn/8fHNnW7y1h](https://s.shopee.vn/8fHNnW7y1h)
+   
    <img src="assets/cap.png">
 
-5. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)<br>
-   Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)<br><br>
+7. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)<br>
+   Buy link: [https://s.shopee.vn/5L0vpYAdVs](https://s.shopee.vn/5L0vpYAdVs)
+   
    <img src="assets/sw.png" width="250">
    
 ---
@@ -51,7 +54,8 @@
 
 - `WEBFLASHER` INSTALLER FOR EASY UPLOAD CODE ON ESP32 NO NEED TO DOWNLOAD INO FILE (USE CHROME OR EDGE BROWSER)
 
-- [https://dtavnn.github.io/esp32-Bluetooth-jammer/flasher](https://dtavnn.github.io/esp32-Bluetooth-jammer/flasher)
+1. Download and install driver: [Driver CH341-CP210x](https://drive.google.com/drive/folders/17FM-7FTW8ErQfCQJ1lQr8PCD7wfnYpei)
+2. Click to Flash: [https://dtavnn.github.io/esp32-Bluetooth-jammer/flasher](https://dtavnn.github.io/esp32-Bluetooth-jammer/flasher)
 
 ---
 
