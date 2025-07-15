@@ -9,19 +9,23 @@
 ## REQUIRED DEVICE AND MODULE:
 1. `1pc OR 2pcs NRF24`
 - Buy link: https://s.shopee.vn/AKPbm6iKfB
-![nrf24l01](assets/nrf24.jpg)
+  
+  ![nrf24l01](assets/nrf24.jpg)
 
 2. `1pc ESP32`
 - Buy link: https://s.shopee.vn/5fdmDlb45J
-- ![esp32](assets/esp32.png)
+  
+  ![esp32](assets/esp32.png)
 
 3. `10UF-100UF CAPACITOR DEPEND ON YOUR NRF`
 - Buy link: https://s.shopee.vn/8fHNnW7y1h
-- ![capacitor](assets/cap.png)
 
-4.` 1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)
+  ![capacitor](assets/cap.png)
+
+4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)
 - Buy link: https://s.shopee.vn/5L0vpYAdVs
-- ![DIP](assets/sw.png)
+  
+  ![DIP](assets/sw.png)
 ---
 
 ## PINS TO ATTACH NRF24L01 TO ESP32
@@ -35,13 +39,13 @@
 
 ## WIRING DIAGRAM
 ### NRF24L01 PINS
-- ![NRF24L01 PIN](assets/NRF24L01_pin.png)
+  ![NRF24L01 PIN](assets/NRF24L01_pin.png)
 
 ### ESP32 PINS WHERE YOU ATTACH YOUR `NRF24` AND `SWITCH `
-- ![32](assets/esp32_pin.png)
+  ![32](assets/esp32_pin.png)
 
 ### HOW YOU ATTACH CAPACITOR LOOK OUT FOR POLAROITY SIGNS `- +`
-- ![NRF24 CAPACITOR](assets/cap_pin.png)
+  ![NRF24 CAPACITOR](assets/cap_pin.png)
 --- 
 
 ## UPLOADING CODE TO ESP32
