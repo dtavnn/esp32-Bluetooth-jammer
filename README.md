@@ -1,5 +1,8 @@
-**WARNING!!! JAMMING IS ILLEGAL**
+# DISCLAIMER
+This tool has been made for educational and testing purposes only. Any misuse or illegal activities conducted with the tool are strictly prohibited. I am **not** responsible for any consequences arising from the use of the tool, which is done at your own risk.
+
  ---
+ 
 # WHAT DOES IT DO?
 ** IT CREATES NOISE SIGNAL TO JAM BLUETOOTH AND WIFI USING NRF24L01 AND ESP32 IN RANGE 2.4GHZ DEVICES,  
    EFFECTS MAY VARY DEPENDS ON DEVICE BLUETOOTH VERSIONS **
